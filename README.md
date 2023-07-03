@@ -25,3 +25,10 @@
   <a href = "mailto:jaocarloscastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
 </div>
 
+
+
+#### Top Repositories:
+<a href="https://github.com/Jao-br/armazem-de-campo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=armazem-de-campo" />
+</a>
+
