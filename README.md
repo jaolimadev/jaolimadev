@@ -1,13 +1,10 @@
 ### Olá, Site! Sejam muito bem vindos(as)!  PT-BR
-<br/> 
- - 🧠 Here, we use code to develop a brighter world for all the generations ahead. Always seen our unique distinctions as collective strength.
-<br>
-<br>
 
 
 **📟 I'm a Mobile and Machine Learning Engineer in progress from Brazil 🇧🇷...**
 
-<br>
+
+ - 🧠 Here, we use code to develop a brighter world for all the generations ahead. Always seen our unique distinctions as collective strength.
 
 
 <div>
