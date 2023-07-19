@@ -28,8 +28,8 @@
 
 
 #### Top Repositories:
-<a href="https://github.com/Jao-br/Farm.co">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=Farm.co" />
+<a href="https://github.com/Jao-br/GroceryApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=GroceryApp" />
 </a>
 
 #### Things I know:
