@@ -7,14 +7,6 @@
  - 🧠 Here, we use code to develop a brighter world for all the generations ahead. Always seen our unique distinctions as collective strength.
 
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats ">
-  <img heigh=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jao-br" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img heigh=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jao-br&layout=compact&langs_count=8&card_width=321 " />
-</a>
-</div>
 
 <br/>
 
@@ -28,10 +20,7 @@
 
 
 
-#### Top Repositories:
-<a href="https://github.com/Jao-br/GroceryApp ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=GroceryApp " />
-</a>
+
 
 #### Things I know:
 <p align="left">  
