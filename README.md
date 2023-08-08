@@ -8,11 +8,11 @@
 
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats ">
   <img heigh=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jao-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img heigh=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jao-br&layout=compact&langs_count=8&card_width=320" />
+  <img heigh=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jao-br&layout=compact&langs_count=8&card_width=321 " />
 </a>
 </div>
 
@@ -29,8 +29,8 @@
 
 
 #### Top Repositories:
-<a href="https://github.com/Jao-br/GroceryApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=GroceryApp" />
+<a href="https://github.com/Jao-br/GroceryApp ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jao-br&repo=GroceryApp " />
 </a>
 
 #### Things I know:
