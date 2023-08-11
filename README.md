@@ -5,7 +5,6 @@
 
 
  - 🧠 Here, we use code to develop a brighter world for all the generations ahead. Always seen our unique distinctions as collective strength.
-<br/>
 
 **You can find me at**
 <div> 
