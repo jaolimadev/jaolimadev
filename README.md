@@ -1,9 +1,9 @@
 ### Olá, Site! Sejam muito bem vindos(as)!  PT-BR
 
 
-**📟 I'm a Software Engineer student from Brazil 🇧🇷...**
+**📟 I'm a Software Engineer student from Brazil 🇧🇷**
 
- - 🧠 Here we support Open Source! 
+ - 🧠 I do Open Source! 
 
 #### Find me at:
 <div> 
