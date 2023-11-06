@@ -3,7 +3,7 @@
 
 **📟 I'm a Software Engineer student from Brazil 🇧🇷**
 
- - 🧠 I do Open Source! 
+ - 🧠 support Open Source! 
 
 #### Find me at:
 <div> 
