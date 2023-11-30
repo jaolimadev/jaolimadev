@@ -1,6 +1,5 @@
 **📟 Software Engineer student from Brazil 🇧🇷**
 
- - 🧠 support Open Source! 
 
 #### Find me at:
 <div> 
