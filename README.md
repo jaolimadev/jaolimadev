@@ -25,6 +25,6 @@
 ---
 
 📫 **Contact Me:**  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/jaolima)
 - [Email](mailto:contato@jaolima.com)
 - [Instagram](https://instagram.com/jaolimadev)
