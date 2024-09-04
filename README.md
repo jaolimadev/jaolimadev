@@ -1,15 +1,5 @@
 **📟 Software Engineer student from Brazil 🇧🇷**
 
-
-#### Find me at:
-<div> 
-  <a href="https://instagram.com/jaolimadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://www.linkedin.com/in/jaolima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@jaolima.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-</div>
-
-
-
 ## About Me
 
 💻 I am an IT professional passionate about solving problems and creating innovative solutions, with experience in software development and automated testing. Currently, at **Zello Tecnologia**, I lead the implementation of robust test pipelines using **Cypress**, **Selenium**, and **JUnit** to ensure software quality throughout all phases of development.
@@ -37,3 +27,4 @@
 📫 **Contact Me:**  
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:contato@jaolima.com)
+- [Instagram]((https://instagram.com/jaolimadev))
