@@ -10,21 +10,30 @@
 
 
 
+## About Me
 
-#### Things I know:
-<p align="left">  
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  
- </p>
+💻 I am an IT professional passionate about solving problems and creating innovative solutions, with experience in software development and automated testing. Currently, at **Zello Tecnologia**, I lead the implementation of robust test pipelines using **Cypress**, **Selenium**, and **JUnit** to ensure software quality throughout all phases of development.
+
+## Experience
+
+### Zello Tecnologia
+
+- 🚀 **Test Pipeline Implementation:** Lead the creation of robust test pipelines using Cypress, Selenium, and JUnit.
+- 🤝 **Automated Test Integration:** Collaborate with development teams to integrate automated tests into the CI/CD process using Jenkins, GitLab CI, and Travis CI.
+- 🔍 **Failure Identification:** Conduct exploratory and regression testing to identify failures and areas for improvement in the system using tools like Postman and TestNG.
+
+### Edex Atacadista (Internship)
+
+- 📱 **Flutter Development:** Contributed to the optimization of the company’s mobile app by implementing real-time notifications and customizing themes to provide an exceptional user experience.
+
+## Specialties
+
+- 🌐 **API Testing:** Expertise in API testing using tools like Postman, REST Assured, and SoapUI to ensure the integrity and functionality of application interfaces.
+- 🧪 **Virtualization and Containers:** Knowledge in creating isolated and replicable test environments with Docker and Kubernetes.
+- 🛠️ **Exploratory and Regression Testing:** Skilled in performing exploratory and regression tests to identify system failures and areas for improvement.
+
+---
+
+📫 **Contact Me:**  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:contato@jaolima.com)
