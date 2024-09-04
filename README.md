@@ -27,4 +27,4 @@
 📫 **Contact Me:**  
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:contato@jaolima.com)
-- [Instagram]((https://instagram.com/jaolimadev))
+- [Instagram](https://instagram.com/jaolimadev)
